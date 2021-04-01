@@ -1,3 +1,8 @@
+name = "DirectConvolution"
+uuid = "a4bc0d0c-21c3-49c9-bb9a-3e7d1bab1347"
+authors = ["hanafsky <kei.hanafusa@gmail.com>"]
+version = "0.1.0"
+
 [deps]
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
