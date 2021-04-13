@@ -1,6 +1,10 @@
 # DirectConvolution
 This is a fork from [DirectConvolution.jl](https://github.com/vincent-picaud/DirectConvolution.jl).
 
+Modified things are as follows:
+- add Project.toml
+- rename ./src/directConvolution.jl to ./src/directConv.jl so as not to conflict with ./src/DirectConvolution.jl on Windows OS
+
 [![Build Status](https://travis-ci.org/vincent-picaud/DirectConvolution.jl.svg?branch=master)](https://travis-ci.org/vincent-picaud/DirectConvolution.jl) 
 [![codecov.io](http://codecov.io/github/vincent-picaud/DirectConvolution.jl/coverage.svg?branch=master)](http://codecov.io/github/vincent-picaud/DirectConvolution.jl?branch=master)
 
